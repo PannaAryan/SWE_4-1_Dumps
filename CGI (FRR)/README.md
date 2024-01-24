@@ -40,8 +40,8 @@ Chapter 1 (From slide)
 Chapter 6
  - Color image processing
  - Color, Electromagnetic Spectrum, RGB Color Model
-   *Red = 8 bit , Green = 8 bit , Blue = 8 bit
-   *Total RGB Colors = 2^24 = 16.7 Million
+ - => *Red = 8 bit , Green = 8 bit , Blue = 8 bit
+ - => *Total RGB Colors = 2^24 = 16.7 Million
  - CMY and CMYK Model
  - Direct Coding *
  - Lookup Table **
