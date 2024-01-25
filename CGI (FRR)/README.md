@@ -43,7 +43,7 @@ Chapter 6
  - => Red = 8 bit , Green = 8 bit , Blue = 8 bit
  - => Total RGB Colors = 2^24 = 16.7 Million
  - CMY and CMYK Model
- - Direct Coding *
+ - Direct Coding **
  - Lookup Table **
  - Direct Coding vs Lookup Table **
  - How Lookup Table reduce Image Size? **
