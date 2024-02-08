@@ -30,7 +30,7 @@ Chapter 1
  - => Contract Management
 
 
-#### 3rd Class (Date: 28-01-24)
+#### 2nd Class (Date: 28-01-24)
 Page 11-20 
 - Contracts and its type ?
 - Fundable Idea
@@ -45,7 +45,7 @@ Page 11-20
 - Critical Path
 - Activity Float
 
-#### 4th Class (Date: 06-02-24)
+#### 3rd Class (Date: 06-02-24)
 Page 11-20 
 - Project Evalution
 - Why-Who-When-How Project Evalution
