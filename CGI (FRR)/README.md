@@ -48,3 +48,22 @@ Chapter 6
  - Direct Coding vs Lookup Table **
  - How Lookup Table reduce Image Size? **
 
+#### 3rd Class (Date: 28-01-24)
+Chapter 3
+ - Scan Conversion
+ - What is Scan-Conversion / Rasterization ?
+ - What is Graphics Primitive ?
+ - Scan Converting a Point
+
+#### 4th Class (Date: 31-01-24)
+Chapter 3
+ - Scan Converting a line
+ - => Direct Line Equation
+ - => Digital Differential Analyzer (DDA) Algorithm
+ - Comparison: DDA vs Direct Line
+
+#### 5th Class (Date: 05-02-24) LAB #1
+Chapter 3
+ - Scan Converting a line
+ - => Bresenham's Line Drawing Algorithm
+
