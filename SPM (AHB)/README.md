@@ -31,7 +31,7 @@ Chapter 1
 
 
 #### 2nd Class (Date: 28-01-24)
-Page 21-24
+Page 11-20 
 - Contracts and its type ?
 - Fundable Idea
 - Feasibility Study
@@ -46,7 +46,7 @@ Page 21-24
 - Activity Float
 
 #### 3rd Class (Date: 06-02-24)
-Page 11-20 
+Page 21-24
 - Project Evalution
 - Why-Who-When-How Project Evalution
 - Strategic Assessment
