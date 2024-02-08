@@ -31,7 +31,7 @@ Chapter 1
 
 
 #### 2nd Class (Date: 28-01-24)
-Page 11-20 
+Page 21-24
 - Contracts and its type ?
 - Fundable Idea
 - Feasibility Study
