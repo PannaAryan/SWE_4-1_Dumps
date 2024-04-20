@@ -71,3 +71,42 @@ Chapter 3
  - Scan Converting a line
  - => Bresenham's Line Drawing Algorithm
 
+
+#### 6th Class (Date: 11-02-24)
+Chapter 3
+- 8-way Symmetry
+- Brasenham's CIrcle Algorithm (Incremental Circle ALgorithm)
+
+
+#### 7th Class
+CHapter 3
+- Brasenham's Circle Drawing Algorithm
+- Midpoint Circle Drawing Algorithm
+- Region Filling Method
+  ==> Two Types
+   --------> Pixel Level Region Filling
+   --------> Geometric Region Filling
+  ==> Two Approaches
+   --------> 4 point Approach
+   --------> 8 Point Approach
+
+
+#### 8th Class (Date: 03-03-24)
+# CHAPTER-4
+2D Transformation
+- Chapter Structure
+ - > Why 3x3 matrix is used?
+ - > Benefits of matrix concatations
+ - > Coordinate Transformation Formula (Scaling, Translation, Reflection, Rotation)
+ - > Geometric Transformation Formula (Scaling, Translation, Reflection, Rotation)
+ - > Coordinate Transformation vs Geometric Transformation
+ - > Composite Transformation Matrix
+- Translation in 2D & 3D
+- Scaling in 2D & 3D
+- Mirror Reflection in 2D & 3D
+- Rotation in 2D & 3D
+
+
+
+   
+
